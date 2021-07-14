@@ -260,6 +260,8 @@ footer{
 .number{
       display:flex;
       background-color:black;
+      color:white;
+    
 }
 .no{
     font-family:cursive;

@@ -210,6 +210,7 @@ footer{
     justify-content: center;
     flex-direction: column;
     margin: 60px;
+    font-size:30px;
 }
 .ordery{
     justify-content: center;
@@ -256,3 +257,13 @@ footer{
     font-size: 60px;
     padding: 20px;
 }
+.number{
+      display:flex;
+      background-color:black;
+}
+.no{
+    font-family:cursive;
+    font-size:20px;
+    
+}
+    
